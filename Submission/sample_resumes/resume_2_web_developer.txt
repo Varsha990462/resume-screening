@@ -1,0 +1,29 @@
+Marcus Vance
+Email: marcus.vance.dev@gmail.com | Phone: (555) 345-6789 | Location: Austin, TX
+Portfolio: marcusvance.tech | GitHub: github.com/marcusvance
+
+PROFESSIONAL SUMMARY
+Full Stack Web Developer with 4 years of experience designing and building responsive, high-performance web applications. Expert in modern JavaScript and TypeScript ecosystems, with deep frontend expertise in React, Next.js, and Redux, paired with robust backend services using Node.js, Express.js, and REST APIs. Committed to writing clean, modular code, automated unit testing, and agile team collaboration.
+
+EDUCATION
+- B.Tech in Information Technology - University of Texas at Austin (2016 - 2020)
+
+TECHNICAL SKILLS
+- Programming: JavaScript, TypeScript, HTML, CSS, SQL, Python
+- Frontend Frameworks: React, Next.js, Redux, Vue.js, Tailwind CSS, Bootstrap
+- Backend & APIs: Node.js, Express.js, REST APIs, GraphQL, FastAPI
+- Databases: PostgreSQL, MongoDB, Redis, MySQL
+- DevOps & Tools: Git, GitHub, Docker, Postman, Webpack, Linux
+- Soft Skills: Problem Solving, Teamwork, Agile, Scrum, Communication, Collaboration
+
+PROFESSIONAL EXPERIENCE
+Full Stack Developer | CloudScale Solutions (2022 - Present)
+- 4 years of experience in end-to-end web application development.
+- Architected enterprise customer portals using React, Next.js, and Tailwind CSS, improving page load speeds by 40%.
+- Designed and maintained REST APIs and GraphQL microservices with Node.js and Express.js, backed by PostgreSQL.
+- Implemented real-time messaging workflows using WebSockets and Redis caching.
+
+Junior Frontend Developer | Apex Interactive (2020 - 2022)
+- Built interactive client-facing dashboards using React, Redux, HTML, and CSS.
+- Participated in bi-weekly Agile sprints, code reviews, and Git version control workflows.
+- Integrated backend payment processing and user authentication APIs.

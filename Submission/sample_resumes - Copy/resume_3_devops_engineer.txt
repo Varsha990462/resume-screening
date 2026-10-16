@@ -1,0 +1,29 @@
+David Rodriguez
+Email: david.rodriguez.ops@cloudmail.io | Phone: +1 555-456-7890 | Location: Seattle, WA
+GitHub: github.com/drodriguez-ops | LinkedIn: linkedin.com/in/david-rodriguez-cloud
+
+PROFESSIONAL SUMMARY
+Dedicated and proactive Cloud & DevOps Engineer with 5+ years of experience automating, securing, and scaling hybrid cloud infrastructures. Proven expertise in AWS and Azure environments, infrastructure-as-code using Terraform and Ansible, container orchestration via Docker and Kubernetes, and end-to-end CI/CD pipeline automation with Jenkins and GitHub Actions.
+
+EDUCATION
+- B.S. in Computer Science - University of Washington (2015 - 2019)
+
+TECHNICAL SKILLS
+- Cloud Platforms: AWS, Azure, Google Cloud
+- Containerization & Orchestration: Docker, Kubernetes, Helm
+- CI/CD & Automation: Jenkins, GitHub Actions, GitLab CI, CI/CD, Terraform, Ansible
+- Operating Systems & Scripting: Linux, Bash, Shell, Python
+- Observability & Monitoring: Prometheus, Grafana, ELK Stack
+- Version Control & Tools: Git, GitHub, Nginx
+- Soft Skills: Leadership, Problem Solving, Collaboration, Adaptability, Communication
+
+PROFESSIONAL EXPERIENCE
+Senior DevOps Engineer | SkyHigh Cloud Systems (2021 - Present)
+- 5+ years of experience leading cloud infrastructure provisioning and continuous integration.
+- Designed Terraform modules to deploy multi-region VPCs, EKS clusters, and RDS databases on AWS with zero downtime.
+- Automated CI/CD pipelines using Jenkins and Docker, cutting deployment cycles from 45 minutes to 8 minutes.
+- Implemented real-time infrastructure telemetry with Prometheus and Grafana alerts.
+
+DevOps Systems Administrator | NorthWest Tech (2019 - 2021)
+- Managed Linux server fleets (Ubuntu, CentOS) and configured automated backups using Bash and Ansible.
+- Assisted engineering teams with containerizing microservices using Docker and Git versioning.

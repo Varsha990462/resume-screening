@@ -1,0 +1,29 @@
+Dr. Priya Sharma
+Email: priya.sharma.ml@email.com | Phone: +1-555-234-5678 | Location: San Francisco, CA
+LinkedIn: linkedin.com/in/priyasharma-ai | GitHub: github.com/priyasharma-ml
+
+PROFESSIONAL SUMMARY
+Innovative and results-driven Senior Data Scientist with 6 years of experience in Machine Learning, Deep Learning, Natural Language Processing, and Statistical Modeling. Proven track record of architecting and deploying end-to-end ML pipelines in production, reducing inference latency by 35% and improving recommendation accuracy. Passionate about leveraging large language models and predictive analytics to solve complex business problems.
+
+EDUCATION
+- Ph.D. in Computer Science (Specialization: Machine Learning & NLP) - Stanford University (2018 - 2021)
+- M.Tech in Data Science & Artificial Intelligence - IIT Bombay (2016 - 2018)
+- B.Tech in Computer Science and Engineering - National Institute of Technology (2012 - 2016)
+
+TECHNICAL SKILLS
+- Programming: Python, R, SQL, Bash
+- Machine Learning & Deep Learning: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Scikit-Learn, TensorFlow, PyTorch, Keras, XGBoost, LightGBM, Neural Networks
+- Data Manipulation & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Feature Engineering, Statistics
+- Cloud & Infrastructure: AWS, Docker, Git, MLflow, Airflow
+- Soft Skills: Communication, Leadership, Problem Solving, Critical Thinking, Teamwork
+
+PROFESSIONAL EXPERIENCE
+Senior Data Scientist | DeepMind Innovations (2021 - Present)
+- 6 years of experience designing and deploying scalable machine learning models.
+- Built enterprise NLP models using BERT and PyTorch for sentiment analysis and semantic document search, achieving 94% precision.
+- Engineered automated feature extraction pipelines with Pandas and Scikit-Learn handling 10M+ daily records.
+- Led cross-functional teams to integrate recommendation algorithms with production REST APIs on AWS.
+
+Data Science Intern | DataCorp Analytics (2018 - 2020)
+- Developed customer churn prediction models using XGBoost and Logistic Regression.
+- Created interactive dashboards and data visual analysis with Seaborn and Matplotlib for executive leadership.

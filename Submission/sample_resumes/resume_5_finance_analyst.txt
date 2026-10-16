@@ -1,0 +1,26 @@
+Ananya Patel
+Email: ananya.patel.fin@finanalytics.com | Phone: +1 (555) 678-9012 | Location: New York, NY
+LinkedIn: linkedin.com/in/ananya-patel-cfa
+
+PROFESSIONAL SUMMARY
+Analytical and detail-oriented Senior Financial Analyst with 3 years of experience in corporate financial modeling, DCF valuation, quantitative predictive analytics, and budgeting. Experienced in analyzing financial datasets using Excel, SQL, Python, Pandas, and applied Machine Learning to deliver actionable insights for capital allocation and corporate strategy.
+
+EDUCATION
+- MBA in Finance - Columbia Business School (2019 - 2021)
+- B.Sc in Economics & Mathematics - New York University (2015 - 2019)
+
+TECHNICAL & FINANCIAL SKILLS
+- Financial Expertise: Financial Modeling, Valuation, Forecasting, Budgeting, Financial Analysis, Accounting, Variance Analysis, Corporate Finance, Risk Management
+- Technical Tools: Python, SQL, Pandas, Machine Learning, Excel, Advanced Financial Modeling, QuickBooks, Tableau, Bloomberg Terminal
+- Soft Skills: Critical Thinking, Communication, Presentation, Problem Solving, Time Management, Negotiation
+
+PROFESSIONAL EXPERIENCE
+Senior Financial Analyst | Gotham Capital Partners (2022 - Present)
+- 3 years of experience developing complex three-statement financial models and discounted cash flow (DCF) valuations.
+- Automated monthly revenue forecasting pipelines using SQL, Python, and Pandas, reducing reporting turnaround by 3 business days.
+- Evaluated corporate budget allocations and variance reports for executive leadership across portfolio companies.
+- Applied baseline Machine Learning algorithms in Scikit-Learn for credit risk classification and trend forecasting.
+
+Financial Analyst | Beacon Advisory Group (2021 - 2022)
+- Built sensitivity analyses and financial presentations for client advisory engagements.
+- Conducted industry benchmarking and market liquidity analysis for mid-market private equity transactions.
